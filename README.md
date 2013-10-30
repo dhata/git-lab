@@ -18,3 +18,4 @@ Wednesday 4-5:50
 
 Our Favorite Octocat<br/>
 <img src="http://octodex.github.com/images/labtocat.png" width="200px"/>
+ hi
